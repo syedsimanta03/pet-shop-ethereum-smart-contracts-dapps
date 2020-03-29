@@ -1,6 +1,6 @@
 # Pet Shop Truffle : EXTENDED
 
-![](.\box-img-sm.png)
+![](./box-img-sm.png)
 
 ## Installation
 
